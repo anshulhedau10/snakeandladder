@@ -14,9 +14,4 @@ This project contains snake and ladder game using python.
 9. Snakes and Ladders are shown on the cell. The cell contains player’s new coordinates according to snake or ladder.
 10. The game closes automatically when a player wins.
 
-<img
-src=“Snake&Ladder.png”
-raw=true
-alt=“Snake&Ladder”
-style=“margin-right: 10px;”
-/>
+![alt tag](https://github.com/anshulhedau10/snakeandladder/blob/main/Snake%26Ladder.png)
